@@ -7,7 +7,7 @@ public class prueba {
 	
 	public void prueba() {
 		
-		System.out.println("AAAAAA");
+		System.out.println("AAAAA");
 	}
 
 }
